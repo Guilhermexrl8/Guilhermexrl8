@@ -1,8 +1,12 @@
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermexrl8&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-</div>
 
-## Codar é um modo de pensar
+#
+**`Analista de Sistemas`**
+Meu nome é Guilherme Augusto, tenho 21 anos e sou natural de São Paulo. Possuo formação técnica em Análise e Desenvolvimento de Sistemas e, atualmente, estou cursando o ensino superior na Universidade Cruzeiro do Sul, na mesma área.
+
+Desde cedo, desenvolvi uma forte paixão pela tecnologia, o que me levou a atuar profissionalmente na área de suporte técnico. Essa experiência tem sido fundamental para meu crescimento, pois me permite compreender, na prática, as necessidades reais dos usuários e o funcionamento dos sistemas.
+
+No entanto, meu objetivo vai além: estou em constante aperfeiçoamento para me tornar um desenvolvedor full stack, capaz de atuar de forma completa no desenvolvimento de aplicações web e sistemas. Acredito que a tecnologia tem o poder de transformar realidades, e quero fazer parte ativamente dessa transformação, unindo conhecimento técnico, criatividade e propósito.
+### 🤖 Linguagens e Tecnologias
 <div style="display: flex; justify-content: space-between;"> <br>
   <img align="left"height="150" alt="coding-time" src="code.gif">
   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
